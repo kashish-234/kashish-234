@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kashish Jain</h1>
-<h3 align="center">A passionate web developer and machine learning enthusiast from India</h3>
+<h3 align="center">A passionate data science and deep learning enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashish-234" alt="kashish-234" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Generative AI**
 
-- 👯 I’m looking to collaborate on **Web development and ML projects**
+- 👯 I’m looking to collaborate on **Agentic AI projects**
 
 - 📫 How to reach me **kashishj003@gmail.com**
 
